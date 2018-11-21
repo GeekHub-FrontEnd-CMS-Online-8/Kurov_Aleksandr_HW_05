@@ -1,13 +1,18 @@
 .header{
 	height: 100px;
 	max-width: 1600px;
+	padding-top: 10px;
 }
+
+#xxx{
+	height: 15px;
+}
+
 
 .sq1{
 	width: 15px;
 	height: 15px;
 	margin-left: 232px;
-	margin-top: 32px;
 	background-color: #15a4fa;
 }
 .sq2{
@@ -52,8 +57,70 @@ margin-top: -19px;
 }
 
 .logo{
-	height: 800px;
-	max-width: 1600px;
+height: 800px;
+
+max-width: 1600px;
+
+background-image: url(../images/Image@1X.png);
+}
+
+.logo1{
+font-size: 70pt;
+
+font-family: Lato;
+
+font-weight: bold;
+
+height: 89px;
+
+width: 415px;
+
+padding-top: 217px;
+
+margin-left: 593px;
+
+color: white;
+text-align: center;
+
+}
+hr{
+	width: 600px;
+	height: 2px;
+	color:blue;
+}
+
+.logo2{
+	margin-top: 34px;
+}
+
+.logo3{
+	text-align: center;
+	margin-top: 26px;
+	font-size: 16pt;
+	font-family: Lato;
+	font-weight: bold;
+	color: white;
+}
+
+.logo4{
+text-align: center;
+    font-size: 14pt;
+    font-family: Lato;
+    color: white;
+    vertical-align: middle;
+    border: 3px solid #fff;
+    border-radius: 10px;
+    height: 54px;
+    width: 176px;
+    margin-left: 715px;
+    line-height: 54px;
+    margin-top: 69px;
+}
+
+.logo5{
+	color: white;
+	text-align: center;
+	padding-top: 190px;
 }
 
 .desc{
