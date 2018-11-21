@@ -1,4 +1,82 @@
-body{
-	min-width: 100%;
+.header{
+	height: 100px;
+	max-width: 1600px;
+}
+
+.sq1{
+	width: 15px;
+	height: 15px;
+	margin-left: 232px;
+	margin-top: 32px;
+	background-color: #15a4fa;
+}
+.sq2{
+background-color: #2d3950;
+
+width: 15px;
+
+height: 15px;
+
+margin-left: 251px;
+
+margin-top: -11px;
+}
+.sq3{
+width: 15px;
+
+height: 15px;
+
+margin-left: 251px;
+
+margin-top: 4px;
+
+background-color: #15a4fa;
+}
+.sq4{
+background-color: #2d3950;
+
+width: 15px;
+
+height: 15px;
+
+margin-left: 232px;
+
+margin-top: -19px;
+}
+.strict{
+	height: 22px;
+	width: 104px;
+	margin-left: 290px;
+	margin-top: -29px;
+	font-size: 20pt;
+}
+
+.logo{
+	height: 800px;
+	max-width: 1600px;
+}
+
+.desc{
+	height: 340px;
+	max-width: 1600px;
+}
+
+.optimized{
+	height: 340px;
+	max-width: 1600px;
+}
+
+.showcase{
+	height: 900px;
+	max-width: 1600px;
+}
+
+.stay{
+	height: 700px;
+	max-width: 1600px;
+}
+
+.footer{
+	height: 90px;
 	max-width: 1600px;
 }
