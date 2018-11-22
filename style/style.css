@@ -197,7 +197,7 @@ margin-top: 36px;
 }
 
 .showcase{
-	height: 900px;
+	height: 800px;
 	max-width: 1600px;
 	background-color: #f6f9f9;
 }
@@ -233,8 +233,47 @@ margin-top: 36px;
 .show3_block{
 	width: 360px;
 	height:260px;
-	background-color: gray;
+	margin: 0 auto;
 }
+
+.ground1{
+    background: url('../images/Layer1.png') no-repeat center top;
+}
+.ground2{
+    background: url('../images/Layer2.png') no-repeat center top;
+}
+.ground3{
+    background: url('../images/Layer3.png') no-repeat center top;
+}
+.ground4{
+    background: url('../images/Layer4.png') no-repeat center top;
+}
+.ground5{
+    background: url('../images/Layer5.png') no-repeat center top;
+}
+.ground6{
+    background: url('../images/Layer6.png') no-repeat center top;
+}
+
+
+
+p{
+    opacity: 0;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: Lato;
+    line-height: 260px;
+    text-align: center;
+    color: #fff;
+    margin-top: 0px;
+}
+.show3_block:hover p{
+    opacity: 1;
+    background: rgba(43,169,242,0.5);
+    cursor: pointer;
+}
+
+
 
 
 .stay{
