@@ -357,3 +357,15 @@ border: aliceblue;
 
 color: white;
 }
+
+.footer1{
+	display: flex;
+	padding-top: 37px;
+	justify-content: space-evenly;
+
+}
+
+.logo1{
+	height: 40px;
+	width: 40px;
+}
