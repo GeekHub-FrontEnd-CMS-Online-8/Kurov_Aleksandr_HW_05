@@ -1,3 +1,7 @@
+body{
+	font-family: Lato;
+}
+
 .header{
 	height: 100px;
 	max-width: 1600px;
@@ -66,19 +70,11 @@ background-image: url(../images/Image@1X.png);
 
 .logo1{
 font-size: 70pt;
-
-font-family: Lato;
-
 font-weight: bold;
-
 height: 89px;
-
 width: 415px;
-
 padding-top: 217px;
-
 margin-left: 593px;
-
 color: white;
 text-align: center;
 
@@ -97,7 +93,6 @@ hr{
 	text-align: center;
 	margin-top: 26px;
 	font-size: 16pt;
-	font-family: Lato;
 	font-weight: bold;
 	color: white;
 }
@@ -105,7 +100,6 @@ hr{
 .logo4{
 text-align: center;
     font-size: 14pt;
-    font-family: Lato;
     color: white;
     vertical-align: middle;
     border: 3px solid #fff;
@@ -202,14 +196,27 @@ margin-top: 36px;
 	margin-top: 10px;
 }
 
-
-
-
-
 .showcase{
 	height: 900px;
 	max-width: 1600px;
 	background-color: #f6f9f9;
+}
+
+.show1{
+	margin-left: auto;
+    padding-top: 59px;
+    height: 37px;
+    text-align: center;
+    font-size: 20pt;
+    color: #2d3950;
+}
+
+.show2{
+	color: #909090;
+	margin-left: auto;
+	padding-top: 16px;
+	height: 14px;
+	text-align: center;
 }
 
 .stay{
