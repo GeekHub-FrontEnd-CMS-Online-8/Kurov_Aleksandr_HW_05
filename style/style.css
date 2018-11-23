@@ -362,10 +362,27 @@ color: white;
 	display: flex;
 	padding-top: 37px;
 	justify-content: space-evenly;
+	height: 90px;
 
 }
 
-.logo1{
+.foot_block1{
+	height: 40px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+}
+
+.logo2{
 	height: 40px;
 	width: 40px;
+	background-color: #15a4fa;
+	margin-top: 0px;
+	margin-right: 5px;
+	color: blue;
+	line-height: 40px;
+	line-height: 40px;
+	text-align: center;
+	color: white;
 }
