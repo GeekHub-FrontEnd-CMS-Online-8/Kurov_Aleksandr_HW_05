@@ -82,11 +82,16 @@ text-align: center;
 hr{
 	width: 600px;
 	height: 2px;
-	color:blue;
+	border-color:blue;
 }
 
-.logo2{
-	margin-top: 34px;
+.logo50{
+    margin: 25px auto;
+    height: 0px;
+    color: blue;
+    line-height: 40px;
+    line-height: 40px;
+    text-align: center;
 }
 
 .logo3{
@@ -134,7 +139,7 @@ text-align: center;
 .desc2{
 height: 81px;
 
-width: 1101px;
+max-width: 1101px;
 
 margin-left: 253px;
 
@@ -178,9 +183,8 @@ margin-top: 36px;
 }
 
 .opblock2{
-	height: 50px;
-	width: 30px;
 	margin: auto;
+	line-height: 22px;
 }
 
 .opblock3{
